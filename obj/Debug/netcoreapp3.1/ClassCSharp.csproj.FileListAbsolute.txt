@@ -1,0 +1,11 @@
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\obj\Debug\netcoreapp3.1\ClassCSharp.csprojAssemblyReference.cache
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\obj\Debug\netcoreapp3.1\ClassCSharp.AssemblyInfoInputs.cache
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\obj\Debug\netcoreapp3.1\ClassCSharp.AssemblyInfo.cs
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.exe
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.deps.json
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.runtimeconfig.json
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.runtimeconfig.dev.json
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.dll
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\bin\Debug\netcoreapp3.1\ClassCSharp.pdb
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\obj\Debug\netcoreapp3.1\ClassCSharp.dll
+C:\Users\EJDH\source\repos\ClassCSharp\ClassCSharp\obj\Debug\netcoreapp3.1\ClassCSharp.pdb
